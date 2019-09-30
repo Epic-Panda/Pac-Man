@@ -1,0 +1,2688 @@
+fileFormatVersion: 2
+guid: 1f3c840976474ec47a7642d83cebcfb2
+timeCreated: 1528416587
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Coins player ghost_0
+    21300002: Coins player ghost_1
+    21300004: Coins player ghost_2
+    21300006: Coins player ghost_3
+    21300008: Coins player ghost_4
+    21300010: Coins player ghost_5
+    21300012: Coins player ghost_6
+    21300014: Coins player ghost_7
+    21300016: Coins player ghost_8
+    21300018: Coins player ghost_9
+    21300020: Coins player ghost_10
+    21300022: Coins player ghost_11
+    21300024: Coins player ghost_12
+    21300026: Coins player ghost_13
+    21300028: Coins player ghost_14
+    21300030: Coins player ghost_15
+    21300032: Coins player ghost_16
+    21300034: Coins player ghost_17
+    21300036: Coins player ghost_18
+    21300038: Coins player ghost_19
+    21300040: Coins player ghost_20
+    21300042: Coins player ghost_21
+    21300044: Coins player ghost_22
+    21300046: Coins player ghost_23
+    21300048: Coins player ghost_24
+    21300050: Coins player ghost_25
+    21300052: Coins player ghost_26
+    21300054: Coins player ghost_27
+    21300056: Coins player ghost_28
+    21300058: Coins player ghost_29
+    21300060: Coins player ghost_30
+    21300062: Coins player ghost_31
+    21300064: Coins player ghost_32
+    21300066: Coins player ghost_33
+    21300068: Coins player ghost_34
+    21300070: Coins player ghost_35
+    21300072: Coins player ghost_36
+    21300074: Coins player ghost_37
+    21300076: Coins player ghost_38
+    21300078: Coins player ghost_39
+    21300080: Coins player ghost_40
+    21300082: Coins player ghost_41
+    21300084: Coins player ghost_42
+    21300086: Coins player ghost_43
+    21300088: Coins player ghost_44
+    21300090: Coins player ghost_45
+    21300092: Coins player ghost_46
+    21300094: Coins player ghost_47
+    21300096: Coins player ghost_48
+    21300098: Coins player ghost_49
+    21300100: Coins player ghost_50
+    21300102: Coins player ghost_51
+    21300104: Coins player ghost_52
+    21300106: Coins player ghost_53
+    21300108: Coins player ghost_54
+    21300110: Coins player ghost_55
+    21300112: Coins player ghost_56
+    21300114: Coins player ghost_57
+    21300116: Coins player ghost_58
+    21300118: Coins player ghost_59
+    21300120: Coins player ghost_60
+    21300122: Coins player ghost_61
+    21300124: Coins player ghost_62
+    21300126: Coins player ghost_63
+    21300128: Coins player ghost_64
+    21300130: Coins player ghost_65
+    21300132: Coins player ghost_66
+    21300134: Coins player ghost_67
+    21300136: Coins player ghost_68
+    21300138: Coins player ghost_69
+    21300140: Coins player ghost_70
+    21300142: Coins player ghost_71
+    21300144: Coins player ghost_72
+    21300146: Coins player ghost_73
+    21300148: Coins player ghost_74
+    21300150: Coins player ghost_75
+    21300152: Coins player ghost_76
+    21300154: Coins player ghost_77
+    21300156: Coins player ghost_78
+    21300158: Coins player ghost_79
+    21300160: Coins player ghost_80
+    21300162: Coins player ghost_81
+    21300164: Coins player ghost_82
+    21300166: Coins player ghost_83
+    21300168: Coins player ghost_84
+    21300170: Coins player ghost_85
+    21300172: Coins player ghost_86
+    21300174: Coins player ghost_87
+    21300176: Coins player ghost_88
+    21300178: Coins player ghost_89
+    21300180: Coins player ghost_90
+    21300182: Coins player ghost_91
+    21300184: Coins player ghost_92
+    21300186: Coins player ghost_93
+    21300188: Coins player ghost_94
+    21300190: Coins player ghost_95
+    21300192: Coins player ghost_96
+    21300194: Coins player ghost_97
+    21300196: Coins player ghost_98
+    21300198: Coins player ghost_99
+    21300200: Coins player ghost_100
+    21300202: Coins player ghost_101
+    21300204: Coins player ghost_102
+    21300206: Coins player ghost_103
+    21300208: Coins player ghost_104
+    21300210: Coins player ghost_105
+    21300212: Coins player ghost_106
+    21300214: Coins player ghost_107
+    21300216: Coins player ghost_108
+    21300218: Coins player ghost_109
+    21300220: Coins player ghost_110
+    21300222: Coins player ghost_111
+    21300224: Coins player ghost_112
+    21300226: Coins player ghost_113
+    21300228: Coins player ghost_114
+    21300230: Coins player ghost_115
+    21300232: Coins player ghost_116
+    21300234: Coins player ghost_117
+    21300236: Coins player ghost_118
+    21300238: Coins player ghost_119
+    21300240: Coins player ghost_120
+    21300242: Coins player ghost_121
+    21300244: Coins player ghost_122
+    21300246: Coins player ghost_123
+    21300248: Coins player ghost_124
+    21300250: Coins player ghost_125
+    21300252: Coins player ghost_126
+    21300254: Coins player ghost_127
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 8
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Coins player ghost_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 1}
+        - {x: -1, y: -1}
+        - {x: 1, y: -1}
+        - {x: 1, y: 1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -4, y: 2}
+        - {x: -4, y: -2}
+        - {x: -2, y: -4}
+        - {x: 2, y: -4}
+        - {x: 4, y: -2}
+        - {x: 4, y: 2}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: -3}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -1}
+        - {x: 2, y: -1}
+        - {x: 0, y: -2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: 1, y: -4}
+        - {x: 1, y: -3}
+        - {x: 0, y: -2}
+        - {x: -2, y: -1}
+        - {x: -4, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -2}
+        - {x: -1, y: -3}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -1}
+        - {x: 2, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: 1, y: -4}
+        - {x: 1, y: -3}
+        - {x: 0, y: -2}
+        - {x: -2, y: -1}
+        - {x: -4, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -2}
+        - {x: -1, y: -3}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -1}
+        - {x: 2, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: 1, y: -4}
+        - {x: 1, y: -3}
+        - {x: 0, y: -2}
+        - {x: -2, y: -1}
+        - {x: -4, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -2}
+        - {x: -1, y: -3}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -1}
+        - {x: 2, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: 1, y: -4}
+        - {x: 1, y: -3}
+        - {x: 0, y: -2}
+        - {x: -2, y: -1}
+        - {x: -4, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: -3}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -3}
+        - {x: 3, y: -3}
+        - {x: 1, y: -2}
+        - {x: 0, y: -2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: -3}
+        - {x: -4, y: -3}
+        - {x: -4, y: -4}
+        - {x: 2, y: -4}
+        - {x: 2, y: -3}
+        - {x: 1, y: -2}
+        - {x: 0, y: -2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -2}
+        - {x: -1, y: -3}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -1}
+        - {x: 2, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -1}
+        - {x: -4, y: -4}
+        - {x: 2, y: -4}
+        - {x: 2, y: -3}
+        - {x: 1, y: -2}
+        - {x: -1, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -3, y: 1}
+        - {x: -3, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -3, y: 1}
+        - {x: -3, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 1}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -3, y: 1}
+        - {x: -3, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 1}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -3, y: 1}
+        - {x: -3, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 1}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 4}
+        - {x: -2, y: 3}
+        - {x: -2, y: -2}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 2, y: -4}
+        - {x: 3, y: -2}
+        - {x: 3, y: 3}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 4}
+        - {x: -2, y: 3}
+        - {x: -2, y: -2}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 2, y: -4}
+        - {x: 3, y: -2}
+        - {x: 3, y: 3}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 4}
+        - {x: -3, y: 0}
+        - {x: 4, y: 0}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 4}
+        - {x: -3, y: 0}
+        - {x: 4, y: 0}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 4}
+        - {x: -3, y: 0}
+        - {x: 4, y: 0}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 4}
+        - {x: -3, y: 0}
+        - {x: 4, y: 0}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_33
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 4}
+        - {x: 0, y: 3}
+        - {x: 2, y: 2}
+        - {x: 4, y: 2}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 2}
+        - {x: -1, y: 2}
+        - {x: 1, y: 3}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 4}
+        - {x: 0, y: 3}
+        - {x: 2, y: 2}
+        - {x: 4, y: 2}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 2}
+        - {x: -1, y: 2}
+        - {x: 1, y: 3}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -2}
+        - {x: -1, y: -3}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -1}
+        - {x: 2, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: 1, y: -4}
+        - {x: 1, y: -3}
+        - {x: 0, y: -2}
+        - {x: -2, y: -1}
+        - {x: -4, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -2}
+        - {x: -1, y: -3}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -1}
+        - {x: 2, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_41
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: 1, y: -4}
+        - {x: 1, y: -3}
+        - {x: 0, y: -2}
+        - {x: -2, y: -1}
+        - {x: -4, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -2}
+        - {x: -1, y: -3}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -1}
+        - {x: 2, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: 1, y: -4}
+        - {x: 1, y: -3}
+        - {x: 0, y: -2}
+        - {x: -2, y: -1}
+        - {x: -4, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -2}
+        - {x: -1, y: -3}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -1}
+        - {x: 2, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_45
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: 1, y: -4}
+        - {x: 1, y: -3}
+        - {x: 0, y: -2}
+        - {x: -2, y: -1}
+        - {x: -4, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -2}
+        - {x: -1, y: -3}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -1}
+        - {x: 2, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -1}
+        - {x: -4, y: -4}
+        - {x: 2, y: -4}
+        - {x: 2, y: -3}
+        - {x: 1, y: -2}
+        - {x: -1, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -2}
+        - {x: -1, y: -3}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -1}
+        - {x: 2, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -1}
+        - {x: -4, y: -4}
+        - {x: 2, y: -4}
+        - {x: 2, y: -3}
+        - {x: 1, y: -2}
+        - {x: -1, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -3, y: 1}
+        - {x: -3, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_51
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 1}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -3, y: 1}
+        - {x: -3, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_53
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 1}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -3, y: 1}
+        - {x: -3, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_55
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 1}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -3, y: 1}
+        - {x: -3, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_57
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 1}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 4}
+        - {x: -2, y: 3}
+        - {x: -2, y: -2}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_59
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 2, y: -4}
+        - {x: 3, y: -2}
+        - {x: 3, y: 3}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 4}
+        - {x: -2, y: 3}
+        - {x: -2, y: -2}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_61
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 1, y: -4}
+        - {x: 1, y: -1}
+        - {x: 1, y: 1}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 4}
+        - {x: -3, y: 0}
+        - {x: 4, y: 0}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_63
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 4}
+        - {x: -3, y: 0}
+        - {x: 4, y: 0}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_65
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 4}
+        - {x: -3, y: 0}
+        - {x: 4, y: 0}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_67
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_68
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 4}
+        - {x: -3, y: 0}
+        - {x: 4, y: 0}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_69
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 4}
+        - {x: 0, y: 2}
+        - {x: 1, y: 2}
+        - {x: 3, y: 3}
+        - {x: 4, y: 3}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_71
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 3}
+        - {x: 0, y: 2}
+        - {x: 1, y: 2}
+        - {x: 2, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: 3}
+      - - {x: -4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_72
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 4}
+        - {x: 0, y: 3}
+        - {x: 2, y: 2}
+        - {x: 4, y: 2}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_73
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 2}
+        - {x: -1, y: 2}
+        - {x: 1, y: 3}
+        - {x: 1, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -2}
+        - {x: -1, y: -3}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -1}
+        - {x: 2, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_75
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: 1, y: -4}
+        - {x: 1, y: -3}
+        - {x: 0, y: -2}
+        - {x: -2, y: -1}
+        - {x: -4, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -2}
+        - {x: -1, y: -3}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -1}
+        - {x: 2, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_77
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: 1, y: -4}
+        - {x: 1, y: -3}
+        - {x: 0, y: -2}
+        - {x: -2, y: -1}
+        - {x: -4, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -2}
+        - {x: -1, y: -3}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -1}
+        - {x: 2, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_79
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: 1, y: -4}
+        - {x: 1, y: -3}
+        - {x: 0, y: -2}
+        - {x: -2, y: -1}
+        - {x: -4, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -2}
+        - {x: -1, y: -3}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -1}
+        - {x: 2, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_81
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: 1, y: -4}
+        - {x: 1, y: -3}
+        - {x: 0, y: -2}
+        - {x: -2, y: -1}
+        - {x: -4, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: -3}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -1}
+        - {x: 2, y: -1}
+        - {x: 0, y: -2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_83
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -1}
+        - {x: -4, y: -4}
+        - {x: 2, y: -4}
+        - {x: 2, y: -3}
+        - {x: 1, y: -2}
+        - {x: -1, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -3, y: 1}
+        - {x: -3, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_85
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 1}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_86
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -3, y: 1}
+        - {x: -3, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_87
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 1}
+        - {x: 2, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 3, y: -4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -3, y: 1}
+        - {x: -3, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_89
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 1}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_90
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -3, y: 1}
+        - {x: -3, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_91
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 1}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_92
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 4}
+        - {x: 0, y: 1}
+        - {x: 0, y: 0}
+        - {x: -1, y: -3}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_93
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 2, y: -4}
+        - {x: 3, y: -2}
+        - {x: 3, y: 3}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 4}
+        - {x: -3, y: 0}
+        - {x: 4, y: 0}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_95
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_96
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 4}
+        - {x: -3, y: 0}
+        - {x: 4, y: 0}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_97
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 4}
+        - {x: -3, y: 0}
+        - {x: 4, y: 0}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_99
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_100
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 4}
+        - {x: -3, y: 0}
+        - {x: 4, y: 0}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_101
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_102
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 4}
+        - {x: 0, y: 3}
+        - {x: 2, y: 2}
+        - {x: 4, y: 2}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_103
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 2}
+        - {x: -1, y: 2}
+        - {x: 1, y: 3}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_104
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -2}
+        - {x: -1, y: -3}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -1}
+        - {x: 2, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_105
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: 1, y: -4}
+        - {x: 1, y: -3}
+        - {x: 0, y: -2}
+        - {x: -2, y: -1}
+        - {x: -4, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_106
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -2}
+        - {x: -1, y: -3}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -1}
+        - {x: 2, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_107
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: 1, y: -4}
+        - {x: 1, y: -3}
+        - {x: 0, y: -2}
+        - {x: -2, y: -1}
+        - {x: -4, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -2}
+        - {x: -1, y: -3}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -1}
+        - {x: 2, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_109
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: 1, y: -4}
+        - {x: 1, y: -3}
+        - {x: 0, y: -2}
+        - {x: -2, y: -1}
+        - {x: -4, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_110
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -2}
+        - {x: -1, y: -3}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: -1}
+        - {x: 2, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_111
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: 1, y: -4}
+        - {x: 1, y: -3}
+        - {x: 0, y: -2}
+        - {x: -2, y: -1}
+        - {x: -4, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_112
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -3, y: 1}
+        - {x: -3, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_113
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 1}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_114
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -3, y: 1}
+        - {x: -3, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_115
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 1}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -3, y: 1}
+        - {x: -3, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_117
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 1}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_118
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -3, y: 1}
+        - {x: -3, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_119
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 1}
+        - {x: 2, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_120
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 4}
+        - {x: -3, y: 0}
+        - {x: 4, y: 0}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_121
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_122
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 4}
+        - {x: -3, y: 0}
+        - {x: 4, y: 0}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_123
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 4}
+        - {x: -3, y: 0}
+        - {x: 4, y: 0}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_125
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_126
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 4}
+        - {x: -3, y: 0}
+        - {x: 4, y: 0}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Coins player ghost_127
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
